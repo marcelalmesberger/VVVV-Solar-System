@@ -13,7 +13,7 @@ Textures from: https://www.solarsystemscope.com/textures/
 
 ## Usage
 
-1. Open clockv4p.v4p
+1. Open solarsystem.v4p
 
 ## Copyright and Licence
 
