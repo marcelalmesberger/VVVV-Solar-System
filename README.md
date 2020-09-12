@@ -3,6 +3,10 @@
 
 Textures from: https://www.solarsystemscope.com/textures/
 
+## Used technologies
+
+VVVV
+
 ## Prerequisites
 
 1. Install VVVV on your computer. Follow these [instructions](https://vvvv.org/documentation/getting-started)
